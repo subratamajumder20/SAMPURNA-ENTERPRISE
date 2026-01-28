@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Sampurna Enterprise - Advanced Printing Solutions",
+  "description": "A high-end printing business website featuring AI-powered design tools, live audio support, and intelligent chat assistants.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
